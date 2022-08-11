@@ -13,4 +13,4 @@ Up to your needs you can change the script interval in Sockets.conf file in orde
 ![image](https://user-images.githubusercontent.com/43276746/183843364-6fb2887f-a070-47c0-b795-c2a28779c4b7.png)
 
 Remember:
-- You need to apply your informations in both of dashoboard and configuration (YOUR-NAME, ABSOLUTE-PATH)
+- You need to apply your informations in configuration file (ABSOLUTE-PATH)
